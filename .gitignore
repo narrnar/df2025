@@ -1,0 +1,9 @@
+# Ignore data/docs
+*.csv
+*.pdf
+*.xlsx
+
+# (optional) common junk
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
